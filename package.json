@@ -1,16 +1,17 @@
 {
-  "name": "ffsmpeg",
-  "version": "1.0.0",
-  "description": "Online utility to simplify basic video editting",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "ejs": "^3.1.5",
-    "express": "^4.17.1",
-    "multer": "^1.4.2"
-  }
+	"name": "ffsmpeg",
+	"version": "1.0.0",
+	"description": "Online utility to simplify basic video editting",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"ejs": "^3.1.5",
+		"express": "^4.17.1",
+		"multer": "^1.4.2"
+	}
 }
